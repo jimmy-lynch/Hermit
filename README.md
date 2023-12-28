@@ -12,7 +12,7 @@ Our process can be outlined by:
 - Implementing with XCode, Swift, SwiftUI, Firebase, Cloud Firestore, and Apple MapKit
 - Final presentation to stakeholders
 
-The original source code is not on my personal computer, but I am working on accessing it. We coded collaboratively, and while I do have portions of the screens I contributed too, I don't have the entire infastructure. However, I have linked our App Demo below that we used to present to stakeholders.
+The original source code is not on my personal computer, but I am working on accessing it to upload to this repository. We coded collaboratively, and while I do have portions of the screens I contributed too, I don't have the entire infastructure. However, I have linked our App Demo below that we used to present to stakeholders.
 
 ## Components
 
