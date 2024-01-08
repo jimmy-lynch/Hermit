@@ -1,6 +1,6 @@
 # Hermit
 
-Hermit was created with Ian Washabaugh and Mahitha Reddy for or COMP 590 - Special Topics (User Interfaces) course in the fall of 2023. Hermit is a 'self-dating' app focused on supporting new grads, and people new to cities, on completing activities alone comfortably. This is a modernized take on social media, meant on uplifting the user and building positive interactions with the outside world. Challenges are split between 'Rejuvenate' (or at home) and 'Explore' (or out in the surrounding area). 
+Hermit was created by James Lynch, Ian Washabaugh and Mahitha Reddy for our COMP 590 - Special Topics (User Interfaces) course in the spring of 2023. Hermit is a 'self-dating' app focused on supporting new grads, and people new to cities, on completing activities alone comfortably. This is a modernized take on social media, meant on uplifting the user and building positive interactions with the outside world. Challenges are split between 'Rejuvenate' (or at home) and 'Explore' (or out in the surrounding area). 
 
 Our process can be outlined by:
 - Initial user research (surveys and interviews)
